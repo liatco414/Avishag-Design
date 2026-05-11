@@ -388,3 +388,33 @@ body {
         margin-right: 15px;
     }
 }
+.footer-simple {
+    padding: 40px 20px;
+    background-color: #fafaf8; /* צבע שמנת בהיר שתואם לאתר */
+    text-align: center;
+    border-top: 1px solid #eee;
+    margin-top: 50px;
+    font-family: 'Assistant', sans-serif;
+}
+
+.footer-simple p {
+    margin: 5px 0;
+    color: #888;
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+}
+
+.creator-tag span {
+    color: #d4af37; /* צבע זהב עדין לשם שלך */
+    font-weight: 600;
+}
+
+.creator-tag a {
+    color: #888;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.creator-tag a:hover {
+    color: #d4af37;
+}
