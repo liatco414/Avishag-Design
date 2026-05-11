@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 :root {
     --primary: #2d2926; /* שחור פחם יוקרתי */
     --gold-muted: #b89a67;
